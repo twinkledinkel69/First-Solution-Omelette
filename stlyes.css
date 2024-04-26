@@ -1,0 +1,92 @@
+body{
+    background: hsl(30, 54%, 90%);
+}
+div{
+    background: white;
+    margin: 150px 480px;
+    height: 2100px;
+    border-radius: 30px;
+    padding: 40px;
+}
+header{
+    background-image: url("images/image-omelette.jpeg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 370px;
+    border-radius: 15px;
+}
+h1{
+    font-size: 50px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 300;
+}
+.h2header{
+    left: -35px;
+    position: relative;
+    color: hsl(332, 51%, 32%);
+}
+.preperationtime {
+    background: hsl(330, 100%, 98%);
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 20px;
+}
+.ingredtientsheader {
+    font-size: 35px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(14, 45%, 36%);
+}
+hr{
+    color: hsl(0, 0%, 100%);
+}
+ol li {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+ol li span{
+    font-weight: 300;
+    font-size: 20px;
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+.calories{
+    height: 10px;
+    padding: 10px;
+    margin: 0 350px 0 30px;
+    border-radius: 0;
+}
+.calories_left{
+    float: left;
+}
+.calories_right{
+    float: right;
+    font-optical-sizing: auto;
+    color: hsl(14, 45%, 36%);
+    font-weight: 800;
+}
+.carbs{
+    height: 7px;
+    padding: 0 10px;
+    margin: 0 390px 0 30px;
+    border-radius: 0;
+}
+.protein{
+    height: 7px;
+    padding: 0 10px;
+    margin: 0 380px 0 30px;
+    border-radius: 0;
+}
